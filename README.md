@@ -1,6 +1,14 @@
 Finance & Operations Analytics Dashboard
 
-![Dashboard Preview](dashboard-preview.jpg)
+[Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+
+[Excel](https://img.shields.io/badge/Excel-Dashboard-green)
+
+[Business Analytics](https://img.shields.io/badge/Business-Analytics-blue)
+
+[Data Visualization](https://img.shields.io/badge/Data-Visualization-orange)
+
+[Dashboard Preview](dashboard-preview.jpg)
 
 ---
 
@@ -63,7 +71,7 @@ This dashboard helps management monitor business performance, identify trends, a
 
 Dashboard Preview
 
-![Dashboard](dashboard-preview.jpg)
+[Dashboard](dashboard-preview.jpg)
 
 ---
 
