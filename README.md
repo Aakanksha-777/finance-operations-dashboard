@@ -1,10 +1,10 @@
-# 📊 Finance & Operations Analytics Dashboard
+Finance & Operations Analytics Dashboard
 
 ![Dashboard Preview](dashboard-preview.jpg)
 
 ---
 
-## 📌 Project Overview
+ Project Overview
 
 This Power BI dashboard was developed to analyze sales performance, business KPIs, and operational trends using interactive visualizations.
 
@@ -12,7 +12,7 @@ The objective of the dashboard is to help business stakeholders monitor performa
 
 ---
 
-## 🚀 Tools Used
+Tools Used
 
 - Power BI
 - Microsoft Excel
@@ -22,7 +22,7 @@ The objective of the dashboard is to help business stakeholders monitor performa
 
 ---
 
-## 📈 Dashboard Features
+Dashboard Features
 
 ✔ Sales Trend Analysis
 
@@ -36,7 +36,7 @@ The objective of the dashboard is to help business stakeholders monitor performa
 
 ---
 
-## 📊 Business Insights
+Business Insights
 
 - Identified fluctuations in sales performance.
 - Visualized business trends over time.
@@ -44,8 +44,7 @@ The objective of the dashboard is to help business stakeholders monitor performa
 - Highlighted operational improvements.
 
 ---
-
-## 💼 Skills Demonstrated
+Skills Demonstrated
 
 - Business Intelligence
 - Data Visualization
@@ -56,16 +55,16 @@ The objective of the dashboard is to help business stakeholders monitor performa
 
 ---
 
-## 🎯 Business Value
+Business Value
 
 This dashboard helps management monitor business performance, identify trends, and make informed operational decisions.
 
 ---
 
-## 📷 Dashboard Preview
+Dashboard Preview
 
 ![Dashboard](dashboard-preview.jpg)
 
 ---
 
-⭐ More analytics projects coming soon...
+ More analytics projects coming soon...
